@@ -1,4 +1,4 @@
-User.create(email: "allenwlee@yahoo.com", password: 'password', username: 'allenwlee', type: "pro")
+User.create(email: "", password: 'password', username: '', type: "pro")
 
 
 genres = %w(Horror Comedy Romance Thriller Action Adventure Drama)
